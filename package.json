@@ -1,6 +1,6 @@
 {
   "scripts": {
-      "start": "node index.js"
+    "start": "node index.js",
     "dev": "nodemon app.js",
     "build": "echo 'No build step needed for Express app'"
   },
